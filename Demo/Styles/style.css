@@ -1,0 +1,8 @@
+/* 
+* countdownDown 0.1 
+* Copyright (c) 2014 Zhangdi http://cindyfn.com/ 
+* Date: 2014-09-16 
+* 输入秒数，转换成分钟＋秒，然后进行倒计时
+* 主要方法:时间转换，倒计时，暂停计时，启动计时，声音点设置。
+* git地址:  https://github.com/icindy/jquery.countdown ;
+*/ 
